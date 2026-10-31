@@ -1,19 +1,19 @@
 {
   "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-  "version": "2026.1031.0",
+  "version": "2026.1031.1",
   "description": "Command-line client for a self-hosted, Cloudflare-backed secrets manager",
   "homepage": "https://github.com/yashau/prick",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/yashau/prick/releases/download/v2026.1031.0/prk-2026.1031.0-x86_64-pc-windows-msvc.zip",
-      "hash": "4765734f1d2df0170c03de2baad205344d045f3943ad1ffcc7fbf53f02c78788",
-      "extract_dir": "prk-2026.1031.0-x86_64-pc-windows-msvc"
+      "url": "https://github.com/yashau/prick/releases/download/v2026.1031.1/prk-2026.1031.1-x86_64-pc-windows-msvc.zip",
+      "hash": "e964c7cad7f0bc227e15dbce429c2c36c7641150b98f16d955c58e7dfaa6724f",
+      "extract_dir": "prk-2026.1031.1-x86_64-pc-windows-msvc"
     },
     "arm64": {
-      "url": "https://github.com/yashau/prick/releases/download/v2026.1031.0/prk-2026.1031.0-aarch64-pc-windows-msvc.zip",
-      "hash": "98936f5dd9a85f2906a6454db91b862f64c6aa3fd7fd72e27bf2abe739661c03",
-      "extract_dir": "prk-2026.1031.0-aarch64-pc-windows-msvc"
+      "url": "https://github.com/yashau/prick/releases/download/v2026.1031.1/prk-2026.1031.1-aarch64-pc-windows-msvc.zip",
+      "hash": "0893084736e28b50f225986a9a05d28338288a7e64c2881890ba80b2380a24d2",
+      "extract_dir": "prk-2026.1031.1-aarch64-pc-windows-msvc"
     }
   },
   "bin": "prk.exe",
